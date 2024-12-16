@@ -1,0 +1,10 @@
+C:\Users\Ucenik\source\repos\monthCalendarKontrola\monthCalendarKontrola\bin\Debug\monthCalendarKontrola.exe.config
+C:\Users\Ucenik\source\repos\monthCalendarKontrola\monthCalendarKontrola\bin\Debug\monthCalendarKontrola.exe
+C:\Users\Ucenik\source\repos\monthCalendarKontrola\monthCalendarKontrola\bin\Debug\monthCalendarKontrola.pdb
+C:\Users\Ucenik\source\repos\monthCalendarKontrola\monthCalendarKontrola\obj\Debug\monthCalendarKontrola.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\monthCalendarKontrola\monthCalendarKontrola\obj\Debug\monthCalendarKontrola.Form1.resources
+C:\Users\Ucenik\source\repos\monthCalendarKontrola\monthCalendarKontrola\obj\Debug\monthCalendarKontrola.Properties.Resources.resources
+C:\Users\Ucenik\source\repos\monthCalendarKontrola\monthCalendarKontrola\obj\Debug\monthCalendarKontrola.csproj.GenerateResource.cache
+C:\Users\Ucenik\source\repos\monthCalendarKontrola\monthCalendarKontrola\obj\Debug\monthCalendarKontrola.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\monthCalendarKontrola\monthCalendarKontrola\obj\Debug\monthCalendarKontrola.exe
+C:\Users\Ucenik\source\repos\monthCalendarKontrola\monthCalendarKontrola\obj\Debug\monthCalendarKontrola.pdb
